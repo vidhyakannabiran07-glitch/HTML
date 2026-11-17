@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Student Registration Form</h1>
+<form>
+<lable for="name">Name:</lable>
+<input type="text"id="name"name=""name">
+<br>
+<br>
+<lable for="email">Email:</lable>
+<input type="email"id="email"name="email">
+<br>
+<br>
+<lable for="password:>password:</lable>
+<input type="password" name="password" required>
+
